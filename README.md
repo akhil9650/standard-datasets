@@ -6,5 +6,7 @@ Implementing algorithms and evaluating results on popular datasets like iris, ho
 
 #2 Boston Housing dataset
       -Initially using linear model to evaluate dataset
-      -Using MSE to check model performance
+      
+      -MSE to check model performance
+      
       -Using GBM to reduce MSE value
