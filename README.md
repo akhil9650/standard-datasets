@@ -1,6 +1,6 @@
 # Standard Datasets
 
-Implementing algorithms and evaluating results on popular datasets like iris, home loan prediction and titanic.
+Implementing algorithms and evaluating results on popular datasets.
 
 #1 IRIS dataset using Support Vector Regressor
 
@@ -16,6 +16,10 @@ Implementing algorithms and evaluating results on popular datasets like iris, ho
       
 #4 Insurance Claim Prediction using XGBoost
 
-#5 Credit Card Fraud detection using RandomForestClassifier and Data Visualisation
+#5 Credit Card Fraud detection using RandomForestClassifier and Logistic Regression
 
+      -Comparing performances of the two libraries in fraud detection
+      
+      -Shuffing dataset to handle imbalance of fraud and non-fraud cases
+      
 #6 Credit Card Fraud Detection using XGBoost Library
