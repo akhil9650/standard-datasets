@@ -12,6 +12,10 @@ Implementing algorithms and evaluating results on popular datasets like iris, ho
       
       -Using GBM to reduce MSE value
 
-#3 Loan Prediction dataset trained using k-Fold Cross Validation        
+#3 Loan Prediction dataset using k-Fold Cross Validation        
       
 #4 Insurance Claim Prediction using XGBoost
+
+#5 Credit Card Fraud detection using RandomForestClassifier and Data Visualisation
+
+#6 Credit Card Fraud Detection using XGBoost Library
